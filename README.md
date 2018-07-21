@@ -3,5 +3,5 @@ Puzzles and algorithms in C#
 
 
 1. FizzBuzz
-2. Sieve of Eratothenes
+2. Sieve of Eratosthenes
 
